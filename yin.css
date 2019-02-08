@@ -1,0 +1,19 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+button {
+  background-color: black;
+  border: 2px solid white;
+  color: white;
+  padding: 10px 24px;
+  font-size: medium;
+  border-radius: 6px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
