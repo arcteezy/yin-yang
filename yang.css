@@ -1,0 +1,27 @@
+body {
+  color: black;
+  background-color: white;
+}
+
+button {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  padding: 10px 24px;
+  font-size: medium;
+  border-radius: 6px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.card {
+  background-color: black;
+  opacity: 0.2;
+  color: black;
+  padding: 10px;
+  border-radius: 6px;
+}
